@@ -10,7 +10,7 @@ to `plugins` in `~/.hyper.js` and restart hyper.js.
 
 Usage:
 
-![demo](https://thumbs.gfycat.com/ZealousZealousIchthyostega-size_restricted.gif)
+![demo](https://s1.gifyu.com/images/hyper-vivifyscrum.gif)
 
 
 ## TODO:
