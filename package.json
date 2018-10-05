@@ -1,6 +1,6 @@
 {
   "name": "hyper-vivifyscrum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hyper and VivifyScrum",
   "keywords": [
     "hyper.app",
@@ -38,7 +38,8 @@
     "eslint-config-idiomatic": "^2.1.0",
     "eslint-loader": "^1.5.0",
     "eslint-plugin-react": "^6.1.1",
-    "webpack": "^4.8.2",
+    "styled-components": "^3.4.9",
+    "webpack": "4.19.1",
     "webpack-cli": "^2.1.3",
     "webpack-node-externals": "^1.7.2"
   },
@@ -47,9 +48,8 @@
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-modal-image": "^2.1.4",
-    "rebass": "^2.0.0-2",
+    "rebass": "2.2.0",
     "snarkdown": "^1.2.2",
-    "vivify-cli": "^1.0.1",
-    "styled-components": "^3.3.0"
+    "vivify-cli": "^1.0.1"
   }
 }
